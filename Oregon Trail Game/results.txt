@@ -1,0 +1,4 @@
+Leader: Collin
+Miles travelled: 0
+Food remaining: 0
+Cash remaining: 1480

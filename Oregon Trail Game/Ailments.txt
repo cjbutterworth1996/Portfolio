@@ -1,0 +1,6 @@
+typhoid
+cholera
+diarrhea
+measles
+dysentery
+fever
